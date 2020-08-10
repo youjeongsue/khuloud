@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "scripts": {
+    "start": "nuxt"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.5",
+    "@nuxtjs/moment": "^1.6.0",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "@nuxtjs/vuetify": "^1.11.0",
+    "jquery": "^3.4.1",
+    "js-cookie": "^2.2.1",
+    "loadsh": "0.0.4",
+    "lodash.throttle": "^4.1.1",
+    "material-design-icons-iconfont": "^5.0.1",
+    "moment": "^2.26.0",
+    "nuxt": "^2.11.0",
+    "socket.io-client": "^2.3.0",
+    "webpack": "^4.43.0"
+  }
+}
